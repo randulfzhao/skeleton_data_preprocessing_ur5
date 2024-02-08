@@ -139,6 +139,6 @@ This file is used as instructor assisting you cleaning the data that you need. P
 
 2. specify the classes that you want to extract in list (exampled as `full.txt`), then run `extract.py` using `python extract.py`, selecting data of specific type, rename, and save as `.pt` file or `.npy` file.
     - Here we only extract the first body of each skeletons.
-    - Data sampled to extract are `.npy` files, stored in `transferred`. You can also fetch the file as compressed file [here](some_link_in_google_document)
+    - Data sampled to extract are `.npy` files, stored in `transferred`.
 
-3. convert the skeleton data into left-arm angles using `convert.py`, and save the converted angles as `.pkl` file.
+3. convert the skeleton data into left-arm angles using `convert.py`, and save the converted angles as `.pkl` file. The processed data can be approached [here](https://drive.google.com/drive/folders/1gt0LjVJvBQtYEwMVV-0r3qKxqU3RwlFb)
